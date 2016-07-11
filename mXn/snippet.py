@@ -15,7 +15,7 @@ while(sum!=prod):
     if(y%2==1):
       x=n-1-x
     print "sum=",sum
-    print"the position of the die is (x,y)=",x,y
+    print"the position of the die is (x,y)=",y,x
     print"\n"
 
 if(sum==prod):
